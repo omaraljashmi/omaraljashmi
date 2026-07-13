@@ -6,6 +6,8 @@
 
 I am a Data Science student at Penn State, minoring in Economics, who enjoys using data, automation, and technology to optimize processes and solve real problems.
 
+[![Interactive Portfolio](https://img.shields.io/badge/Explore_My_Interactive_Portfolio-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://omaraljashmi.github.io)
+
 ### About Me
 
 - 🎓 B.S. in Data Science with a minor in Economics at The Pennsylvania State University
