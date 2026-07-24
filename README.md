@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Omar Al Jashmi — turning messy data into clear stories" width="100%" />
 </p>
 
-<h2 align="center">Hey, I'm Omar 👋</h2>
+<h2 align="center">Hey, I'm Omar</h2>
 
 <p align="center"><em>I think a spreadsheet is a story that hasn't been told yet — I just clean it up until it talks.</em></p>
 
@@ -15,9 +15,9 @@
 
 ---
 
-### 🌱 The short version
+### The short version
 
-I'm a Data Science student at **Penn State** (Economics minor, class of 2027), originally from **Oman** 🇴🇲. I got here on a national scholarship that roughly 50,000 students compete for — which still feels a little surreal — and I've been trying to earn it ever since: **3.86 GPA, Dean's List all six semesters** (streak intact 🤞).
+I'm a Data Science student at **Penn State** (Economics minor, class of 2027), originally from **Oman**. I got here on a national scholarship that roughly 50,000 students compete for — which still feels a little surreal — and I've been trying to earn it ever since: **3.86 GPA, Dean's List all six semesters** — streak intact.
 
 By day I'm a **Data Engineering Intern on the AI team at BALANX-Bio**, building dashboards and pipelines that keep four research and operations workflows honest. By night I build my own tools — usually because a spreadsheet annoyed me enough to do something about it.
 
@@ -25,7 +25,7 @@ By day I'm a **Data Engineering Intern on the AI team at BALANX-Bio**, building 
 what I care about: data you can trust · charts that show their math · tools anyone can afford
 ```
 
-### 🟢 What I'm building right now
+### What I'm building right now
 
 **[Open Data Scientist](https://github.com/omaraljashmi/data-insight-studio)** — my favorite project. Upload a messy CSV and it profiles it, cleans it (with an undo button and receipts), builds dashboards, writes SQL for you, coaches your SQL, and ships the data wherever you want. Three rules I refuse to break:
 
@@ -33,20 +33,20 @@ what I care about: data you can trust · charts that show their math · tools an
 2. **Show the math** — every single chart carries the exact audit table behind it.
 3. **Your data stays yours** — even the optional AI advisor only ever sees column names, never your values.
 
-👉 Try it in 10 seconds: **[live demo](https://open-data-scientist-omar.streamlit.app)** → click *Try sample dataset*.
+Try it in 10 seconds: **[live demo](https://open-data-scientist-omar.streamlit.app)** — click *Try sample dataset*.
 
 Also on the bench: **[water-relief-map](https://github.com/omaraljashmi/water-relief-map)** — an interactive TypeScript map for visualizing water stress, because some datasets deserve more than a bar chart.
 
-### 🧰 Projects I'm proud of
+### Projects I'm proud of
 
-| | Project | The human version |
-|---|---|---|
-| 🕵️ | **Fake Review Detection** | Taught a model to smell fake reviews — TF-IDF + Logistic Regression + Naive Bayes over ~40,000 of them, **86.7% mean accuracy** across five random seeds (because one lucky seed proves nothing). |
-| 📬 | **Cold Email Sales Analysis** | Turned a pile of outreach data into Clay + Airtable dashboards that actually answer "when should we hit send?" |
-| 🏎️ | **F1 2021 Season Analysis** | Settled the Hamilton vs. Verstappen argument the only way I know how: in R, with plots. (The data had opinions.) |
-| 📋 | **Job Application Tracker** | An Excel system with dashboards, logs, follow-ups, and templates — job hunting is a data problem too. |
+| Project | The human version |
+|---|---|
+| **Fake Review Detection** | Taught a model to smell fake reviews — TF-IDF + Logistic Regression + Naive Bayes over ~40,000 of them, **86.7% mean accuracy** across five random seeds (because one lucky seed proves nothing). |
+| **Cold Email Sales Analysis** | Turned a pile of outreach data into Clay + Airtable dashboards that actually answer "when should we hit send?" |
+| **F1 2021 Season Analysis** | Settled the Hamilton vs. Verstappen argument the only way I know how: in R, with plots. (The data had opinions.) |
+| **Job Application Tracker** | An Excel system with dashboards, logs, follow-ups, and templates — job hunting is a data problem too. |
 
-### 🛠️ The toolbox
+### The toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-15803d?style=flat-square&logo=python&logoColor=f7f3e7" alt="Python">
@@ -62,13 +62,13 @@ Also on the bench: **[water-relief-map](https://github.com/omaraljashmi/water-re
   <img src="https://img.shields.io/badge/Airtable-1f9a4c?style=flat-square&logo=airtable&logoColor=f7f3e7" alt="Airtable">
 </p>
 
-### 🎪 Off the keyboard
+### Off the keyboard
 
-- 🎉 Directed a **$60,000 Omani National Day celebration** for 500+ people — traditional artists, diplomats, government officials, and exactly one very stressed spreadsheet of logistics (mine).
-- 🤝 I run operations for **ASEEL at Penn State**, helping Arab students find their footing academically and professionally.
-- 🗣️ I dream in Arabic, debug in English.
+- Directed a **$60,000 Omani National Day celebration** for 500+ people — traditional artists, diplomats, government officials, and exactly one very stressed spreadsheet of logistics (mine).
+- I run operations for **ASEEL at Penn State**, helping Arab students find their footing academically and professionally.
+- I dream in Arabic, debug in English.
 
-### 📊 The obligatory stats
+### The obligatory stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omaraljashmi&show_icons=true&bg_color=fffdf6&title_color=15803d&text_color=23392b&icon_color=15803d&border_color=cfe3d4&rank_icon=github" height="165" alt="GitHub stats">
@@ -78,5 +78,5 @@ Also on the bench: **[water-relief-map](https://github.com/omaraljashmi/water-re
 ---
 
 <p align="center">
-  <sub>⚽ Pitch green &amp; cream — like everything I build. If you've read this far, we should probably talk: <a href="mailto:omaraljashmi.uni@gmail.com">omaraljashmi.uni@gmail.com</a></sub>
+  <sub>Pitch green &amp; cream — like everything I build. If you've read this far, we should probably talk: <a href="mailto:omaraljashmi.uni@gmail.com">omaraljashmi.uni@gmail.com</a></sub>
 </p>
