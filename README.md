@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://omaraljashmi.github.io"><img src="https://img.shields.io/badge/Portfolio-omaraljashmi.github.io-15803d?style=for-the-badge&logo=githubpages&logoColor=f7f3e7" alt="Portfolio"></a>
-  <a href="https://data-insight-studio-omar.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Open_Data_Scientist-1f9a4c?style=for-the-badge&logo=streamlit&logoColor=f7f3e7" alt="Live demo"></a>
+  <a href="https://data-insight-studio-omar.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Data_Insight_Studio-1f9a4c?style=for-the-badge&logo=streamlit&logoColor=f7f3e7" alt="Live demo"></a>
   <a href="https://www.linkedin.com/in/omar-al-jashmi/"><img src="https://img.shields.io/badge/LinkedIn-say_hi-0d5c2b?style=for-the-badge&logo=linkedin&logoColor=f7f3e7" alt="LinkedIn"></a>
   <a href="mailto:omaraljashmi.uni@gmail.com"><img src="https://img.shields.io/badge/Email-omaraljashmi.uni@gmail.com-54a06d?style=for-the-badge&logo=gmail&logoColor=f7f3e7" alt="Email"></a>
 </p>
@@ -27,7 +27,7 @@ what I care about: data you can trust · charts that show their math · tools an
 
 ### What I'm building right now
 
-**[Open Data Scientist](https://github.com/omaraljashmi/data-insight-studio)** — my favorite project. Upload a messy CSV and it profiles it, cleans it (with an undo button and receipts), builds dashboards, writes SQL for you, coaches your SQL, and ships the data wherever you want. Three rules I refuse to break:
+**[Data Insight Studio](https://github.com/omaraljashmi/data-insight-studio)** — my favorite project. Upload a messy CSV and it profiles it, cleans it (with an undo button and receipts), builds dashboards, writes SQL for you, coaches your SQL, and ships the data wherever you want. Three rules I refuse to break:
 
 1. **Zero cost** — no paid APIs, ever. Free tiers and local tools only.
 2. **Show the math** — every single chart carries the exact audit table behind it.
