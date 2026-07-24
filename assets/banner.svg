@@ -1,51 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Omar Al Jashmi</title>
-  <desc id="description">Turning data into smarter processes</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#071A35" />
-      <stop offset="55%" stop-color="#0B3B75" />
-      <stop offset="100%" stop-color="#1473E6" />
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="22%" r="70%">
-      <stop offset="0%" stop-color="#62B5FF" stop-opacity="0.45" />
-      <stop offset="100%" stop-color="#62B5FF" stop-opacity="0" />
-    </radialGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#031024" flood-opacity="0.35" />
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Omar Al Jashmi — turning messy data into clear stories">
+  <!-- cream card -->
+  <rect x="2" y="2" width="1196" height="276" rx="22" fill="#f7f3e7" stroke="#15803d" stroke-opacity=".25" stroke-width="2"/>
 
-  <rect width="1200" height="360" rx="28" fill="url(#background)" />
-  <rect width="1200" height="360" rx="28" fill="url(#glow)" />
-
-  <g opacity="0.24" fill="none" stroke="#B9DDFF">
-    <path d="M900 34 L1050 118 L1158 70" />
-    <path d="M836 176 L984 102 L1112 190 L1190 152" />
-    <path d="M890 294 L1018 230 L1148 294" />
-    <circle cx="900" cy="34" r="5" fill="#B9DDFF" />
-    <circle cx="1050" cy="118" r="5" fill="#B9DDFF" />
-    <circle cx="1158" cy="70" r="5" fill="#B9DDFF" />
-    <circle cx="836" cy="176" r="5" fill="#B9DDFF" />
-    <circle cx="984" cy="102" r="5" fill="#B9DDFF" />
-    <circle cx="1112" cy="190" r="5" fill="#B9DDFF" />
-    <circle cx="1190" cy="152" r="5" fill="#B9DDFF" />
-    <circle cx="890" cy="294" r="5" fill="#B9DDFF" />
-    <circle cx="1018" cy="230" r="5" fill="#B9DDFF" />
-    <circle cx="1148" cy="294" r="5" fill="#B9DDFF" />
+  <!-- pitch panel on the right -->
+  <g>
+    <rect x="800" y="22" width="378" height="236" rx="16" fill="#123a26"/>
+    <!-- field markings -->
+    <g stroke="#f3efdf" stroke-opacity=".28" fill="none" stroke-width="2">
+      <rect x="820" y="42" width="338" height="196" rx="8"/>
+      <line x1="989" y1="42" x2="989" y2="238"/>
+      <circle cx="989" cy="140" r="34"/>
+    </g>
+    <!-- data over the pitch: rising line -->
+    <polyline points="846,206 896,178 946,188 1006,132 1066,142 1126,86"
+              fill="none" stroke="#56d68a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#f7f3e7">
+      <circle cx="846" cy="206" r="6"/>
+      <circle cx="896" cy="178" r="6"/>
+      <circle cx="946" cy="188" r="6"/>
+      <circle cx="1006" cy="132" r="6"/>
+      <circle cx="1066" cy="142" r="6"/>
+      <circle cx="1126" cy="86" r="7"/>
+    </g>
+    <!-- donut in the top-left corner of the pitch -->
+    <g transform="translate(862,84)">
+      <circle r="26" fill="none" stroke="#f3efdf" stroke-opacity=".35" stroke-width="12"/>
+      <path d="M 0 -26 A 26 26 0 1 1 -24.7 8.0" fill="none" stroke="#7fd6a0" stroke-width="12" stroke-linecap="round"/>
+    </g>
   </g>
 
-  <g filter="url(#shadow)">
-    <text x="74" y="160" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1">Omar Al Jashmi</text>
-    <text x="78" y="220" fill="#CFE8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="29" font-weight="500">Turning data into smarter processes</text>
-  </g>
-
-  <g transform="translate(78 267)">
-    <rect width="166" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.11" stroke="#FFFFFF" stroke-opacity="0.24" />
-    <text x="83" y="27" text-anchor="middle" fill="#E8F4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">DATA SCIENCE</text>
-    <rect x="180" width="156" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.11" stroke="#FFFFFF" stroke-opacity="0.24" />
-    <text x="258" y="27" text-anchor="middle" fill="#E8F4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">AUTOMATION</text>
-    <rect x="350" width="184" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.11" stroke="#FFFFFF" stroke-opacity="0.24" />
-    <text x="442" y="27" text-anchor="middle" fill="#E8F4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">PROBLEM SOLVING</text>
+  <!-- words -->
+  <g font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+    <text x="64" y="86" fill="#15803d" font-size="17" font-weight="700" letter-spacing="6">TURNING MESSY DATA INTO CLEAR STORIES</text>
+    <text x="62" y="152" fill="#16281e" font-size="58" font-weight="800" letter-spacing="-1">Omar Al Jashmi</text>
+    <text x="64" y="196" fill="#5f6f5f" font-size="21">data science @ penn state · data engineering intern @ BALANX-Bio</text>
+    <text x="64" y="238" fill="#5f6f5f" font-size="17">🇴🇲 → 🇺🇸  ·  عربي + English  ·  builder of Open Data Scientist</text>
   </g>
 </svg>

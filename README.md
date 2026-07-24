@@ -1,59 +1,82 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Omar Al Jashmi — Turning data into smarter processes" width="100%" />
+  <img src="assets/banner.svg" alt="Omar Al Jashmi — turning messy data into clear stories" width="100%" />
 </p>
 
-## Hi, I'm Omar Al Jashmi 👋
+<h2 align="center">Hey, I'm Omar 👋</h2>
 
-I am a Data Science student at Penn State, minoring in Economics, who enjoys using data, automation, and technology to optimize processes and solve real problems.
+<p align="center"><em>I think a spreadsheet is a story that hasn't been told yet — I just clean it up until it talks.</em></p>
 
-[![Interactive Portfolio](https://img.shields.io/badge/Explore_My_Interactive_Portfolio-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://omaraljashmi.github.io)
+<p align="center">
+  <a href="https://omaraljashmi.github.io"><img src="https://img.shields.io/badge/Portfolio-omaraljashmi.github.io-15803d?style=for-the-badge&logo=githubpages&logoColor=f7f3e7" alt="Portfolio"></a>
+  <a href="https://open-data-scientist-omar.streamlit.app"><img src="https://img.shields.io/badge/Live_Demo-Open_Data_Scientist-1f9a4c?style=for-the-badge&logo=streamlit&logoColor=f7f3e7" alt="Live demo"></a>
+  <a href="https://www.linkedin.com/in/omar-al-jashmi/"><img src="https://img.shields.io/badge/LinkedIn-say_hi-0d5c2b?style=for-the-badge&logo=linkedin&logoColor=f7f3e7" alt="LinkedIn"></a>
+  <a href="mailto:omaraljashmi.uni@gmail.com"><img src="https://img.shields.io/badge/Email-omaraljashmi.uni@gmail.com-54a06d?style=for-the-badge&logo=gmail&logoColor=f7f3e7" alt="Email"></a>
+</p>
 
-### About Me
+---
 
-- 🎓 B.S. in Data Science with a minor in Economics at The Pennsylvania State University
-- 📅 Expected graduation: May 2027
-- 📊 GPA: 3.86/4.00 and Dean's List for all six semesters
-- 💼 Data Engineering Intern on the AI Team at BALANX-Bio
-- 🌎 Based in State College, Pennsylvania
-- 🗣️ Native Arabic speaker and fluent in English
+### 🌱 The short version
 
-### What I'm Working On
+I'm a Data Science student at **Penn State** (Economics minor, class of 2027), originally from **Oman** 🇴🇲. I got here on a national scholarship that roughly 50,000 students compete for — which still feels a little surreal — and I've been trying to earn it ever since: **3.86 GPA, Dean's List all six semesters** (streak intact 🤞).
 
-At **BALANX-Bio**, I build analytics dashboards, support data pipelines, prepare reliable data for downstream analysis, and review shared code. My work improves visibility across four key AI research and operations workflows.
+By day I'm a **Data Engineering Intern on the AI team at BALANX-Bio**, building dashboards and pipelines that keep four research and operations workflows honest. By night I build my own tools — usually because a spreadsheet annoyed me enough to do something about it.
 
-### Featured Projects
+```text
+what I care about: data you can trust · charts that show their math · tools anyone can afford
+```
 
-#### Fake Review Detection
+### 🟢 What I'm building right now
 
-Built an NLP classification pipeline using TF-IDF, Logistic Regression, and Naive Bayes on approximately 40,000 reviews. The models achieved **86.7% mean accuracy** across five random seeds.
+**[Open Data Scientist](https://github.com/omaraljashmi/data-insight-studio)** — my favorite project. Upload a messy CSV and it profiles it, cleans it (with an undo button and receipts), builds dashboards, writes SQL for you, coaches your SQL, and ships the data wherever you want. Three rules I refuse to break:
 
-#### Cold Email Sales Data Analysis
+1. **Zero cost** — no paid APIs, ever. Free tiers and local tools only.
+2. **Show the math** — every single chart carries the exact audit table behind it.
+3. **Your data stays yours** — even the optional AI advisor only ever sees column names, never your values.
 
-Organized and analyzed outreach data using Clay and Airtable. Built automated dashboards to identify patterns in outreach timing, response rates, and meeting conversion.
+👉 Try it in 10 seconds: **[live demo](https://open-data-scientist-omar.streamlit.app)** → click *Try sample dataset*.
 
-#### F1 2021 Season Data Analysis
+Also on the bench: **[water-relief-map](https://github.com/omaraljashmi/water-relief-map)** — an interactive TypeScript map for visualizing water stress, because some datasets deserve more than a bar chart.
 
-Used R and RStudio to compare Lewis Hamilton and Max Verstappen across race results, performance trends, and their contributions to team success during the 2021 Formula 1 season.
+### 🧰 Projects I'm proud of
 
-#### Job Application Tracker
+| | Project | The human version |
+|---|---|---|
+| 🕵️ | **Fake Review Detection** | Taught a model to smell fake reviews — TF-IDF + Logistic Regression + Naive Bayes over ~40,000 of them, **86.7% mean accuracy** across five random seeds (because one lucky seed proves nothing). |
+| 📬 | **Cold Email Sales Analysis** | Turned a pile of outreach data into Clay + Airtable dashboards that actually answer "when should we hit send?" |
+| 🏎️ | **F1 2021 Season Analysis** | Settled the Hamilton vs. Verstappen argument the only way I know how: in R, with plots. (The data had opinions.) |
+| 📋 | **Job Application Tracker** | An Excel system with dashboards, logs, follow-ups, and templates — job hunting is a data problem too. |
 
-Created an Excel-based job search system with an application dashboard, application and networking logs, weekly reviews, follow-up tracking, dropdown controls, and reusable email templates.
+### 🛠️ The toolbox
 
-### Leadership and Achievement
+<p>
+  <img src="https://img.shields.io/badge/Python-15803d?style=flat-square&logo=python&logoColor=f7f3e7" alt="Python">
+  <img src="https://img.shields.io/badge/R-1f9a4c?style=flat-square&logo=r&logoColor=f7f3e7" alt="R">
+  <img src="https://img.shields.io/badge/SQL-0d5c2b?style=flat-square&logoColor=f7f3e7" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-15803d?style=flat-square&logo=pandas&logoColor=f7f3e7" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-1f9a4c?style=flat-square&logo=numpy&logoColor=f7f3e7" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-0d5c2b?style=flat-square&logo=scikitlearn&logoColor=f7f3e7" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-15803d?style=flat-square&logo=streamlit&logoColor=f7f3e7" alt="Streamlit">
+  <img src="https://img.shields.io/badge/DuckDB-1f9a4c?style=flat-square&logo=duckdb&logoColor=f7f3e7" alt="DuckDB">
+  <img src="https://img.shields.io/badge/Git-0d5c2b?style=flat-square&logo=git&logoColor=f7f3e7" alt="Git">
+  <img src="https://img.shields.io/badge/Excel-15803d?style=flat-square&logoColor=f7f3e7" alt="Excel">
+  <img src="https://img.shields.io/badge/Airtable-1f9a4c?style=flat-square&logo=airtable&logoColor=f7f3e7" alt="Airtable">
+</p>
 
-- Directed a **$60,000-funded Omani National Day celebration** for more than 500 attendees, featuring traditional artists and welcoming diplomats and government officials.
-- Earned an Omani national scholarship after competing among approximately 50,000 students.
-- Lead operations for ASEEL at Penn State, supporting Arab students through academic, professional, and industry-focused programs.
+### 🎪 Off the keyboard
 
-### Technical Toolkit
+- 🎉 Directed a **$60,000 Omani National Day celebration** for 500+ people — traditional artists, diplomats, government officials, and exactly one very stressed spreadsheet of logistics (mine).
+- 🤝 I run operations for **ASEEL at Penn State**, helping Arab students find their footing academically and professionally.
+- 🗣️ I dream in Arabic, debug in English.
 
-**Languages:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, scikit-learn  
-**Tools:** Git, GitHub, Excel, Airtable, VS Code, RStudio  
-**Areas:** Data engineering, machine learning, NLP, automation, dashboards, data cleaning, and statistical analysis
+### 📊 The obligatory stats
 
-### Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omaraljashmi&show_icons=true&bg_color=fffdf6&title_color=15803d&text_color=23392b&icon_color=15803d&border_color=cfe3d4&rank_icon=github" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaraljashmi&layout=compact&bg_color=fffdf6&title_color=15803d&text_color=23392b&border_color=cfe3d4" height="165" alt="Top languages">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Al%20Jashmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-al-jashmi/)
-[![Email](https://img.shields.io/badge/Email-omaraljashmi.uni%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaraljashmi.uni@gmail.com)
+---
 
+<p align="center">
+  <sub>⚽ Pitch green &amp; cream — like everything I build. If you've read this far, we should probably talk: <a href="mailto:omaraljashmi.uni@gmail.com">omaraljashmi.uni@gmail.com</a></sub>
+</p>
