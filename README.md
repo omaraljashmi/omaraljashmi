@@ -4,7 +4,7 @@
 
 <h2 align="center">Hey, I'm Omar</h2>
 
-<p align="center"><em>I think a spreadsheet is a story that hasn't been told yet — I just clean it up until it talks.</em></p>
+<p align="center"><em>Data is the foundation; optimization is the architecture.</em></p>
 
 <p align="center">
   <a href="https://omaraljashmi.github.io"><img src="https://img.shields.io/badge/Portfolio-omaraljashmi.github.io-15803d?style=for-the-badge&logo=githubpages&logoColor=f7f3e7" alt="Portfolio"></a>
