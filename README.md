@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Omar Al Jashmi — turning messy data into clear stories" width="100%" />
+  <img src="assets/header.svg" alt="Omar Al Jashmi — turning messy data into clear stories" width="100%" />
 </p>
 
 <h2 align="center">Hey, I'm Omar</h2>
