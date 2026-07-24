@@ -35,12 +35,13 @@ what I care about: data you can trust · charts that show their math · tools an
 
 Try it in 10 seconds: **[live demo](https://open-data-scientist-omar.streamlit.app)** — click *Try sample dataset*.
 
-Also on the bench: **[water-relief-map](https://github.com/omaraljashmi/water-relief-map)** — an interactive TypeScript map for visualizing water stress, because some datasets deserve more than a bar chart.
+Also on the bench: **[Where Water Runs Thin](https://github.com/omaraljashmi/water-relief-map)** — an interactive world map of the places where clean water is hardest to reach, because some datasets deserve more than a bar chart.
 
 ### Projects I'm proud of
 
 | Project | The human version |
 |---|---|
+| **[Where Water Runs Thin](https://github.com/omaraljashmi/water-relief-map)** | An interactive world map of the 37 countries where at least 1 in 5 people lack basic drinking water (WHO/UNICEF data). Tap a country for the numbers, the solutions that fit, and an independently rated way to give. Next.js + TypeScript. |
 | **Fake Review Detection** | Taught a model to smell fake reviews — TF-IDF + Logistic Regression + Naive Bayes over ~40,000 of them, **86.7% mean accuracy** across five random seeds (because one lucky seed proves nothing). |
 | **Cold Email Sales Analysis** | Turned a pile of outreach data into Clay + Airtable dashboards that actually answer "when should we hit send?" |
 | **F1 2021 Season Analysis** | Settled the Hamilton vs. Verstappen argument the only way I know how: in R, with plots. (The data had opinions.) |
